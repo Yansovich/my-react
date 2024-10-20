@@ -1,0 +1,7 @@
+ul {
+    width: 100%;
+    display: flex;
+    justify-content: space-around ;
+    list-style-type: none;
+    color: gray;
+}
